@@ -1,6 +1,6 @@
 # <a href="https://github.com/Temsar-626">Rahman </a>
 
-Hi, I am Rahman ,and I was born in 2007.January, I love web development, web scrapping and etc. I started programming in 2019, I'm busy with python on Django and anything in web development world.
+Hi, I am Rahman ,and I was born in 2007.January, I love web development, web scrapping and etc. I started programming in 2021, I'm busy with python on Django and anything in web development world.
 
 <a href="https://t.me/Temsar_ap">
 	<img align="left" alt="Rahman | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> Contact Me
