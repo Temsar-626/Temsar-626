@@ -1,14 +1,14 @@
-<h2 align="center"> Hi there 👋</h2>
+<h1 align="center"> Hi there 👋</h1>
 
 <h3 align="center">
 I'm Akas, a self-motivated tech enthusiast and developer.
 </h3>
 
 <h3 align="center">
-| 💬 connect <a href="https://twitter.com/Temasr-626">Rahamn</a>
+| 💬 connect <a href="https://t.me/Temsar_ap">Rahamn ME</a>|
 </h3>
 <h3  align="center">
-<a href="https://github.com/Temsar-626">ME</a>
+<a href="https://x.com/temsar_626">X.com</a>
 </h3>
 
 <h2 align="center" >Things I code with</h2>
