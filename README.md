@@ -11,11 +11,13 @@ I'm Akas, a self-motivated tech enthusiast and developer.
 <a href="https://github.com/Temsar-626">ME</a>
 </p>
 
-<h3 align="center" >All my Statistics</h3>
+<h3 align="center" >Things I code with</h3>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Temsar-626&count_private=true&layout=compact&theme=transparent)
-![](https://github-readme-stats.vercel.app/api?username=Temsar-626&show_icons=true&count_private=true&theme=transparent)
+<h3 align="center" >Things I code with</h3>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Temsar-626&theme=github&area=true&area_color=EFFFEF&point=FF1D1D&custom_title=My%20Contribution%20Graph%20(in%20the%20last%2031%20days))]() <br>
+
