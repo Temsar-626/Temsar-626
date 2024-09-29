@@ -11,7 +11,7 @@ I'm Akas, a self-motivated tech enthusiast and developer.
 <a href="https://github.com/Temsar-626">ME</a>
 </p>
 
-## My Favorite Technologies
+<h3 align="center" >All my Statistics</h3>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
