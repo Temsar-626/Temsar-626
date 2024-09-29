@@ -1,11 +1,15 @@
-# <a href="https://github.com/Temsar-626">Rahman </a>
+<h3 align="center"> Hi there 👋</h3>
 
-Hi, I am Rahman ,and I was born in 2007.January, I love web development, web scrapping and etc. I started programming in 2021, I'm busy with python on Django and anything in web development world.
+<p align="center">
+I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+</p>
 
-<a href="https://t.me/Temsar_ap">
-	<img align="left" alt="Rahman | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> Contact Me
-</a>
-<br>
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
+</h4>
+<p  align="center">
+<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+</p>
 
 ## My Favorite Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
